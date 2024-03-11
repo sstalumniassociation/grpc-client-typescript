@@ -1,1 +1,0 @@
-# `@sstalumniassociation/grpc-client-typescript`
